@@ -170,3 +170,6 @@ for(let i =1;i<=10;i++){
 console.log(z);
 
 var z;
+
+new Date();
+new Date().getDay;
