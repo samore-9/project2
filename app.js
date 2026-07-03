@@ -90,7 +90,7 @@
             console.log(res.data.fact);
 
         } catch(e){
-            console.log("ERROR: ", e);
+            console.log("ERROR msg: ", e);
 
         }
     }
