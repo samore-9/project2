@@ -1,4 +1,4 @@
-# Frontend Concepts Learning
+# Frontend Concepts Tutorial
 
 This repository is my personal frontend learning journey. I'm building everything from scratch to gain hands-on experience with **HTML**, **CSS**, and **JavaScript** instead of just following tutorials.
 
