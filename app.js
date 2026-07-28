@@ -1,5 +1,5 @@
 window.addEventListener("load", function() {
-    console.log("Page fully loaded!");
+    console.log("Page loaded!");
 });
 
 
