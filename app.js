@@ -1,6 +1,6 @@
-// window.addEventListener("load", function() {
-//     console.log("Page fully loaded!");
-// });
+window.addEventListener("load", function() {
+    console.log("Page fully loaded!");
+});
 
 
 // // window.addEventListener("scroll", function() {
