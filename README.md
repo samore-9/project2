@@ -21,5 +21,6 @@ This repository is my personal frontend learning journey. I'm building everythin
 * Experiment with different layouts and designs
 * Write clean, readable code
 * Learn by building and fixing mistakes
+* Learned how styling can be done 
 
 This repository will continue to grow as I explore more frontend concepts and improve my development skills.
