@@ -14,16 +14,16 @@ document.addEventListener("keypress", function(e) {
  
 
 
-// function addToDB(data){
-//     return new Promise((resolve,reject)=>{
-//         let internetSpeed = Math.floor(Math.random()*10 + 1);
-//         if(internetSpeed > 4){
-//             resolve("Data 1 saved");
-//         } else{
-//             reject("Weak connection ...Transfer failed");
-//         }
-//     });
-// }
+function addToDB(data){
+    return new Promise((resolve,reject)=>{
+        let internetSpeed = Math.floor(Math.random()*10 + 1);
+        if(internetSpeed > 4){
+            resolve("Data 1 saved");
+        } else{
+            reject("Weak connection ...Transfer failed");
+        }
+    });
+}
 
 
 // let res = addToDB("Samore")
