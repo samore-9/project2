@@ -3,9 +3,9 @@ window.addEventListener("load", function() {
 });
 
 
-// // window.addEventListener("scroll", function() {
-// //     console.log("Scrolling... Current Y:", window.scrollY);
-// // });
+window.addEventListener("scroll", function() {
+    console.log("Scrolling... Current Y:", window.scrollY);
+});
 
 document.addEventListener("keypress", function(e) {
     console.log(e);
