@@ -7,10 +7,10 @@ window.addEventListener("load", function() {
 // //     console.log("Scrolling... Current Y:", window.scrollY);
 // // });
 
-// document.addEventListener("keypress", function(e) {
-//     console.log(e);
-//     console.log("You pressed: " + e.key);
-// });
+document.addEventListener("keypress", function(e) {
+    console.log(e);
+    console.log("You pressed: " + e.key);
+});
  
 
 
