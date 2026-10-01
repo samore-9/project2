@@ -26,19 +26,19 @@ function addToDB(data){
 }
 
 
-// let res = addToDB("Samore")
-//     .then((result) => {
-//         console.log("Data1 is resolved!");
-//         return addToDB("XYz")
-//         .then(() =>{
-//             console.log("Data 2 is resolved");
-//         })
-//     }
-//     )
-//     .catch((e)=>{
-//         console.log(e);
-//         console.log("Internet is slow");
-//     })
+let res = addToDB("Samore")
+    .then((result) => {
+        console.log("Data1 is resolved!");
+        return addToDB("XYz")
+        .then(() =>{
+            console.log("Data 2 is resolved");
+        })
+    }
+    )
+    .catch((e)=>{
+        console.log(e);
+        console.log("Internet is slow");
+    })
 
 
 
